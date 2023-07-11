@@ -1,0 +1,7 @@
+{
+    "description": "FSP is the next generation Arm® MCU software package from Renesas, that enables secure devices and IoT connectivity through production ready peripheral drivers, Azure RTOS or FreeRTOS, and portable middleware stacks.",
+    "name": "framework-cmsis-renesas",
+    "system": "all",
+    "url": "https://github.com/renesas/fsp",
+    "version": "1.40500.0"
+}
